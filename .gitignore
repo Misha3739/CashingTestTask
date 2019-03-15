@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CashingTestTask/v15/Server/sqlite3
+/CachingTestTask.Api/bin/
+/CachingTestTask.Api/obj/
+**.DotSettings.user
+**.suo
+/CachingTestTask.Test/bin/
+/CachingTestTask.Test/obj/
